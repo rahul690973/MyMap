@@ -1,13 +1,13 @@
 MyMap
-=====
+
 
 
 Retrieving location detail from OpenMRS and displaying it on a map.
 
-I set up OpenMRS locally on my Tomcat Server and i am fetching the data from
- OpenMRS from the URL http://localhost:8080/openmrs/ws/rest/v1/location?v=full. 
-The reponse i am grtting is:
 
+I set up OpenMRS locally on my Tomcat Server and i am fetching the data from 
+OpenMRS from the URL  http://localhost:8080/openmrs/ws/rest/v1/location?v=full.
+The reponse i am getting is:
 
 
 {
@@ -69,6 +69,6 @@ The reponse i am grtting is:
 
 
 
-
 As lat and long are NULL , i replaced my own values in the response and displayed it on map.
- The details about models,views,stores are in their respective README documents.
+The details about models,views,stores are in their respective README documents.
+
