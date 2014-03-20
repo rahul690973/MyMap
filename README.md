@@ -68,7 +68,6 @@ The reponse i am getting is:
 }
 
 
-
 As lat and long are NULL , i replaced my own values in the response and displayed it on map.
 The details about models,views,stores are in their respective README documents.
 
